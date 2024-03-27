@@ -1,0 +1,114 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Master the fundamentals of playing the piano with our beginner's guide.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 3,
+      "title": "Bass Guitar Techniques",
+      "slug": "bass-guitar-techniques",
+      "description": "Explore the techniques and styles of playing bass guitar with our expert-led course.",
+      "price": 109.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": false,
+      "image": "/courses/classical-music.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Foundations",
+      "slug": "drumming-foundations",
+      "description": "Build a solid foundation in drumming with our step-by-step beginner's course.",
+      "price": 89.99,
+      "instructor": "David Williams",
+      "isFeatured": true,
+      "image": "/courses/drumming.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training 101",
+      "slug": "vocal-training-101",
+      "description": "Enhance your vocal abilities and confidence with our comprehensive training course.",
+      "price": 129.99,
+      "instructor": "Emily Brown",
+      "isFeatured": true,
+      "image": "/courses/vocalist.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Master the fundamental concepts of music theory to enhance your musical skills.",
+      "price": 99.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": false,
+      "image": "/courses/music_theory.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 7,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Unlock your creativity and learn the art of songwriting with our interactive workshop.",
+      "price": 119.99,
+      "instructor": "Christopher Taylor",
+      "isFeatured": false,
+      "image": "/courses/song-writing.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 8,
+      "title": "Music Production Fundamentals",
+      "slug": "music-production-fundamentals",
+      "description": "Discover the essentials of music production and unleash your creativity.",
+      "price": 149.99,
+      "instructor": "Olivia Martinez",
+      "isFeatured": true,
+      "image": "/courses/music_prod.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 9,
+      "title": "Jazz Improvisation Techniques",
+      "slug": "jazz-improvisation-techniques",
+      "description": "Explore the art of jazz improvisation with our comprehensive guide.",
+      "price": 109.99,
+      "instructor": "Carlos Rodriguez",
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 10,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn to produce electronic music with industry-standard software and techniques.",
+      "price": 129.99,
+      "instructor": "Sophia Adams",
+      "isFeatured": true,
+      "image": "/courses/blues.jpg",
+      "category": "Music"
+    }
+  ]
+}
